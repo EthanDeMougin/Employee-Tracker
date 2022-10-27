@@ -1,5 +1,8 @@
 {
+  "name": "employee-tracker",
+  "version": "1.0.0",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1"
   }
 }
